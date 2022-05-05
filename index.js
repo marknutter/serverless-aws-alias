@@ -45,7 +45,7 @@ class AwsAlias {
 				'plugins',
 				'aws',
 				'lib',
-				'monitorStack')
+				'monitor-stack')
 		);
 		const setBucketName = require(
 			Path.join(this._serverless.config.serverlessPath,
