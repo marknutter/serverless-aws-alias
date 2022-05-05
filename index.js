@@ -52,7 +52,7 @@ class AwsAlias {
 				'plugins',
 				'aws',
 				'lib',
-				'setBucketName')
+				'set-bucket-name')
 		);
 
 		_.assign(
