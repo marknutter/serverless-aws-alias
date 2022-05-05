@@ -93,6 +93,7 @@ class AwsAlias {
 								usage: 'Enable verbose output',
 								shortcut: 'v',
 								required: false
+								type: 'boolean'
 							}
 						}
 					}
